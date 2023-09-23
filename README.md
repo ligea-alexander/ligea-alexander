@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ligea (Lay-Gee-Yah) or just call me Alex. 
+I'm Ligea (Lay-Ghee-Yah) or just call me Alex. 
 
 - 🔭 I’m currently working on an interactive story using AI and Jackson Pollock's work
 - 🌱 I’m currently learning JavaScript
