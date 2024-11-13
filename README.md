@@ -7,3 +7,5 @@ I'm Ligea (Lay-Ghee-Yah) or just call me Alex. ([Porfolio](https://ligea-alexand
 - 👯 I’m looking to collaborate on creative coding
 - 📫 How to reach me: ligea.alex@gmail.com
 - ⚡ Fun fact: Edgar Allen Poe has a book with my name
+
+![](https://komarev.com/ghpvc/?username=ligea-alexander&style=flat-square&color=e6e6ff)
